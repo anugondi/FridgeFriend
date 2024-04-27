@@ -5,6 +5,8 @@
 //  Created by Anusha Gondi on 4/27/24.
 //
 
+// This Page is to provide a social media platform for users to share recipe ideas and surplus ingredients/foods they have
+
 import SwiftUI
 import SlidingTabView
 

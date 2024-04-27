@@ -5,6 +5,8 @@
 //  Created by Anusha Gondi on 4/15/24.
 //
 
+// Displays items and expiry dates 
+
 import SwiftUI
 
 struct RefrigeratorView: View {
