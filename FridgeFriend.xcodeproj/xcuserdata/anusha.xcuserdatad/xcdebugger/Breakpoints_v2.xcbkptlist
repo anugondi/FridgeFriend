@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AD89CDFB-5B8E-4BD1-B4DE-C68D7F1BBBBE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8791A3B7-CC58-4E74-BEF4-625599002D45"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FridgeFriend/Core/Authentication/ViewModel/AuthViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "signIn(withEmail:password:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8791A3B7-CC58-4E74-BEF4-625599002D45 - aa41171bb7fec496"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FridgeFriend.AuthViewModel.createUser(withEmail: Swift.String, password: Swift.String, fullname: Swift.String) async throws -&gt; ()"
+                  moduleName = "FridgeFriend"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anusha/Desktop/FridgeFriend/FridgeFriend/Core/Authentication/ViewModel/AuthViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "8791A3B7-CC58-4E74-BEF4-625599002D45 - 9d340b2ee5ef4ac6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for FridgeFriend.AuthViewModel.createUser(withEmail: Swift.String, password: Swift.String, fullname: Swift.String) async throws -&gt; ()"
+                  moduleName = "FridgeFriend"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anusha/Desktop/FridgeFriend/FridgeFriend/Core/Authentication/ViewModel/AuthViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C0EFC3BC-7463-4E90-BC88-2DB2C88AF53F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FridgeFriend/Community/RecipeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "145"
+            endingLineNumber = "145"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
