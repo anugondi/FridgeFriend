@@ -5,8 +5,6 @@
 //  Created by Anusha Gondi on 4/27/24.
 //
 
-//Future implementation
-
 import SwiftUI
 
 struct RecipeView: View {

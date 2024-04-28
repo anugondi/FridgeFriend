@@ -8,8 +8,6 @@
 import Foundation
 import UserNotifications
 
-// Future implementation -> add code for notification permissions popup (resulting from toggle)
-
 protocol INotificationManager {
     var handleNotification: ((UNNotification) -> Void)? { get }
     func requestPermission(completionHandler: @escaping (Bool, Error?) -> Void)

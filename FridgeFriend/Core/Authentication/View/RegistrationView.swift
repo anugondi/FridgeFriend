@@ -5,8 +5,6 @@
 //  Created by Anusha Gondi on 4/7/24.
 //
 
-// User signing up 
-
 import SwiftUI
 
 struct RegistrationView: View {

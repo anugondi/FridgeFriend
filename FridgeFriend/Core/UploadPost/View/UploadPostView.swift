@@ -5,8 +5,6 @@
 //  Created by Anusha Gondi on 4/22/24.
 //
 
-// Page to upload photos for refrigerator
-
 import SwiftUI
 import PhotosUI
 import UserNotifications

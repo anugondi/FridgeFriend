@@ -5,8 +5,6 @@
 //  Created by Anusha Gondi on 4/23/24.
 //
 
-//Uploads image 
-
 import Foundation
 import UIKit
 import Firebase
