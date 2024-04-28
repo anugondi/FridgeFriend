@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyAo5R4s_O8_K3hwj4NsP2bAYRpUVE4kV1I</string>
+	<string>null</string>
 	<key>GCM_SENDER_ID</key>
-	<string>894467316580</string>
+	<string>null</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>Project.FridgeFriend</string>
+	<string>null</string>
 	<key>PROJECT_ID</key>
-	<string>fridgefriend-2b067</string>
+	<string>null</string>
 	<key>STORAGE_BUCKET</key>
-	<string>fridgefriend-2b067.appspot.com</string>
+	<string>null</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:894467316580:ios:ca68be6e4a973e2d6c7871</string>
+	<string>null</string>
 </dict>
 </plist>
